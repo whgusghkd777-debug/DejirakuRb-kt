@@ -1,8 +1,9 @@
 
 ## 📸 実行画面 (Screenshots)
-<img src="[https://github.com/user-attachments/assets/ba2d664d-b203-4dc0-adbf-f50b1972ae7f](https://github.com/user-attachments/assets/ba2d664d-b203-4dc0-adbf-f50b1972ae7f)" width="200"/>
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c64cf86f-11d1-4edf-a754-8e8e917ec7d3" />
 | 客室選択 (Ruby) | 決済完了 (Java) | 通知案内 (Kotlin) |
-| :---: | :---: | :---: |
+
 
 
 ---
