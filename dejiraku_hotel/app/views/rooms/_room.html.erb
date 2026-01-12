@@ -1,0 +1,13 @@
+<div id="<%= dom_id room %>" style="border: 1px solid #ddd; padding: 20px; margin-bottom: 20px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+  <h3 style="color: #007bff;"><%= room.name %></h3>
+  <p style="color: #666;"><%= room.description %></p>
+  <p><strong>価格:</strong> ¥<%= number_with_delimiter(room.price) %></p>
+
+  <div style="margin-top: 20px;">
+    <a href="http://localhost:8080/pay?roomName=<%= room.name %>"
+       style="background-color: #ff4757; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold;"
+       target="_blank">
+       この客室を予約する
+    </a>
+  </div>
+</div>
