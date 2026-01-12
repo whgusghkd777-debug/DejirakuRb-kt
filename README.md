@@ -1,6 +1,7 @@
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ba2d664d-b203-4dc0-adbf-f50b1972ae7f" />
 
-
+## 📸 実行画面 (Screenshots)
+| 客室選択 (Ruby) | 決済完了 (Java) | 通知案内 (Kotlin) |
 
 # 🏨 Dejiraku Hotel & Resort System
 **Ruby, Java, Kotlinを統合したマイクロサービス学習プロジェクト**
@@ -35,11 +36,7 @@
 
 ---
 
-## 📸 実行画面 (Screenshots)
-| 客室選択 (Ruby) | 決済完了 (Java) | 通知案内 (Kotlin) |
-| :--- | :--- | :--- |
-| ![Ruby Screen](https://github.com/whgusghkd777-debug/DejirakuRb-kt/blob/master/screenshots/ruby_screen.png?raw=true) | ![Java Screen](https://github.com/whgusghkd777-debug/DejirakuRb-kt/blob/master/screenshots/java_screen.png?raw=true) | ![Kotlin Screen](https://github.com/whgusghkd777-debug/DejirakuRb-kt/blob/master/screenshots/kotlin_screen.png?raw=true) |
-*(※ 画像のパスはご自身の環境に合わせて修正してください)*
+
 
 ---
 
